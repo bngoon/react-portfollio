@@ -2,7 +2,7 @@ import React from 'react'
 import "./services.css"
 import Image1 from "../../assets/javascript-logo-javascript-icon-transparent-free-png.webp"
 import Image2 from "../../assets/download.png"
-import Image3 from "../../assets/node.png"
+import Image3 from "../../assets/blue-tube-vector-logo-template-illustration-design-vector-eps-10_822766-9547.avif"
 
 
 const data = [
@@ -23,9 +23,9 @@ const data = [
   {
     id: 3,
     image: Image3,
-    title: "Node.js",
+    title: "Databases",
     description:
-      "Experienced in building server-side applications using Node.js, Express.js, and integrating with databases like MongoDB.",
+      "Experienced in building server-side applications using Node.js, Express.js, Django, and integrating with databases like MongoDB and SQL.",
   }]
 //   {
 //     id: 4,
