@@ -13,7 +13,7 @@ function About() {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">Hello, my name is Booker Ngoon, a software engineer from Boston, MA.</p>
-            <a href="" className="btn">Download CV</a>
+            <a href="https://docs.google.com/document/d/1yugkjSE_2K4mptWzFe6ulipkhCsfl0Q4CsARmrmiwtg/edit?usp=sharing" className="btn">Download CV</a>
           </div>
           <div className="about__skills grid">
             <div className="skills__data">
