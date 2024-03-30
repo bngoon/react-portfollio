@@ -6,7 +6,7 @@ import Services from "./components/services/Services.jsx";
 import Resume from "./components/resume/Resume.jsx";
 // import Portfolio from "./components/portfolio/Portfolio.jsx";
 import Contact from "./components/contact/Contact.jsx";
-
+import Projects from "./components/projects/Projects.jsx";
 import React from "react";
 
 function App() {
@@ -19,6 +19,7 @@ function App() {
         <Services />
         <Resume />
         {/* <Portfolio /> */}
+        <Projects />
         <Contact />
       </main>
     </div>
