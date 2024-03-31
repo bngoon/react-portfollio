@@ -12,6 +12,8 @@ function About() {
         <img src={Image} alt="" className="about__img" />
         <div className="about__data grid">
           <div className="about__info">
+
+
           <p className="about__description">
     👋 Hey there, I'm Booker Ngoon!<br />
 
@@ -37,6 +39,7 @@ function About() {
 
 
             <a href="https://docs.google.com/document/d/1yugkjSE_2K4mptWzFe6ulipkhCsfl0Q4CsARmrmiwtg/edit?usp=sharing" className="btn">Download CV</a>
+            
           </div>
           <div className="about__skills grid">
             <div className="skills__data">
