@@ -30,7 +30,7 @@ function About() {
     📫 <strong>Let's Connect:</strong><br />
     Feel free to reach out if you'd like to collaborate on a project, discuss tech trends, or simply chat!<br />
 
-    🔗 <strong>GitHub:</strong> <a href="https://github.com/bngoon" target="_blank">github.com/bngoon</a><br />
+    🔗 <strong>GitHub:</strong> <a href="https://github.com/bngoon" target="_blank" rel="noreferrer">github.com/bngoon</a><br />
 
     📧 <strong>Email:</strong> <a href="mailto:bookerngoon@gmail.com">bookerngoon@gmail.com</a><br />
 
