@@ -25,7 +25,7 @@ function Projects() {
             <h3 className="project__name">Project 2</h3>
           </div>
           <div className="project__description">
-            <p>Project 2 is a mobile app developed using React Native.</p>
+            <p>Project 2 is a mobile app developed using React.</p>
           </div>
           <div className="project__link">
             <a href="https://github.com/example/project2" className="project btn">View Project</a>
