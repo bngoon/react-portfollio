@@ -24,13 +24,13 @@ function Projects() {
 
         <div className="project__data">
           <div className="project__titles">
-            <h3 className="project__name">Project 2</h3>
+            <h3 className="project__name">Project 2 To-Do-List</h3>
           </div>
           <div className="project__description">
-            <p>Project 2 is a mobile app developed using React.</p>
+            <p>Project 2 To-Do-List app developed using React. and CSS</p>
           </div>
           <div className="project__link">
-            <a href="https://github.com/example/project2" className="project btn">View Project</a>
+            <a href="https://todosbn.netlify.app/" className="project btn">View Project</a>
           </div>
         </div>
 
@@ -39,7 +39,9 @@ function Projects() {
             <h3 className="project__name">Project 3</h3>
           </div>
           <div className="project__description">
-            <p>Project 3 is a database management system using SQL.</p>
+          <p>Project 3 is an advanced Social Media Platform built with React, Django, and CSS.</p>
+          <br></br>
+            <p>This platform offers users a comprehensive social experience:</p>
           </div>
           <div className="project__link">
             <a href="https://github.com/example/project3" className="project btn">View Project</a>
