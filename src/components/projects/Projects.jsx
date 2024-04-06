@@ -10,13 +10,15 @@ function Projects() {
        
         <div className="project__data">
           <div className="project__titles">
-            <h3 className="project__name">Project 1</h3>
+            <h3 className="project__name">Project 1 Weather App</h3>
           </div>
           <div className="project__description">
-            <p>Project 1 is a web application built using React and Node.js.</p>
+            <p>Project 1 is a web application built using React and CSS</p>
+            <br></br>
+            <p>This project uses the OpenWeather API to fetch and display weather data for a given city. It also utilizes Axios for API requests and dynamically changes the background image based on the searched city.</p>
           </div>
           <div className="project__link">
-            <a href="https://github.com/example/project1" className="project btn">View Project</a>
+            <a href="https://weatherbn.netlify.app/" className="project btn">View Project</a>
           </div>
         </div>
 
