@@ -85,7 +85,7 @@ function About() {
             <div className="skills__data">
               <div className="skill__titles">
                 <h3 className="skills__name">Python</h3>
-                <span className="skills__number">60%</span>
+                <span className="skills__number">70%</span>
               </div>
               <div className="skills__bar python">
                 <span className="skills__percentage" style={{ width: '70%' }}></span>
@@ -95,17 +95,17 @@ function About() {
             <div className="skills__data">
               <div className="skill__titles">
                 <h3 className="skills__name">SQL</h3>
-                <span className="skills__number">60%</span>
+                <span className="skills__number">70%</span>
               </div>
               <div className="skills__bar SQL">
                 <span className="skills__percentage" style={{ width: '70%' }}></span>
               </div>
             </div>
-            
+
             <div className="skills__data">
               <div className="skill__titles">
                 <h3 className="skills__name">Django</h3>
-                <span className="skills__number">60%</span>
+                <span className="skills__number">70%</span>
               </div>
               <div className="skills__bar django">
                 <span className="skills__percentage" style={{ width: '70%' }}></span>

@@ -188,19 +188,19 @@
 }
 
 .python {
-  width: 60%;
+  width: 70%;
 }
 
 .django {
-  width: 60%;
+  width: 70%;
 }
 
 .figma {
   width: 20%;
 }
 
-.sql {
-  width: 60%;
+.SQL {
+  width: 70%;
 }
 .about__boxes {
   grid-template-columns: repeat(4, 1fr);
