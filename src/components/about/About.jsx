@@ -94,6 +94,16 @@ function About() {
 
             <div className="skills__data">
               <div className="skill__titles">
+                <h3 className="skills__name">SQL</h3>
+                <span className="skills__number">60%</span>
+              </div>
+              <div className="skills__bar SQL">
+                <span className="skills__percentage" style={{ width: '70%' }}></span>
+              </div>
+            </div>
+            
+            <div className="skills__data">
+              <div className="skill__titles">
                 <h3 className="skills__name">Django</h3>
                 <span className="skills__number">60%</span>
               </div>

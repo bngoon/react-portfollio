@@ -199,6 +199,9 @@
   width: 20%;
 }
 
+.sql {
+  width: 60%;
+}
 .about__boxes {
   grid-template-columns: repeat(4, 1fr);
   column-gap: 1.875rem;
