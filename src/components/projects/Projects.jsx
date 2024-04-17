@@ -36,7 +36,7 @@ function Projects() {
 
         <div className="project__data">
           <div className="project__titles">
-            <h3 className="project__name">Project 3 hobbyr</h3>
+            <h3 className="project__name">Project 3 Chef's Kiss</h3>
           </div>
           <div className="project__description">
           <p>Project 3 is a Cook Book website where the user can view and create recipes, this app is build with Mongoose, Express, React, and Node.js.</p>
