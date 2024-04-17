@@ -44,7 +44,7 @@ function Projects() {
             <p>This platform offers users a comprehensive social experience:</p>
           </div>
           <div className="project__link">
-            <a href="https://github.com/example/project3" className="project btn">View Project</a>
+            <a href="https://hobbyr.netlify.app/" className="project btn">View Project</a>
           </div>
         </div>
         
