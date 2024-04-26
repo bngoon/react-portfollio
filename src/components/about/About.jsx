@@ -38,7 +38,7 @@ function About() {
 </p>
 
 
-            <a href="https://docs.google.com/document/d/1yugkjSE_2K4mptWzFe6ulipkhCsfl0Q4CsARmrmiwtg/edit?usp=sharing" className="btn">Download CV</a>
+            <a href="https://docs.google.com/document/d/112JiaZLUV6OQm_h9LrhgdZHjcSP7yDa7/edit?usp=sharing&ouid=100685592303775798237&rtpof=true&sd=true" className="btn">Download CV</a>
             
           </div>
           <div className="about__skills grid">
