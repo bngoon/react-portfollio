@@ -221,3 +221,8 @@
 .about__title {
   font-size: 1.875rem;
 }
+
+.about__img {
+  height: 200px;
+  border-radius: 2em;
+}
